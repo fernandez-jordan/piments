@@ -1,0 +1,21 @@
+{
+  "name": "node-mysql",
+  "version": "0.0.1",
+  "description": "Un super Chat temps réel avec socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fernan_8",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.10.6",
+    "mysql": "^2.5.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fernan_8/repository.git"
+  }
+}
